@@ -1,5 +1,5 @@
 # kryptoSAT
-A prove of concept implementation of a sat-based crypto system
+This is a prove of concept implementation of a sat-based crypto system proposed in http://arxiv.org/abs/1507.08094v1
 
 
 ##License
